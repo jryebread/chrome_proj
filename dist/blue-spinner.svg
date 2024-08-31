@@ -1,0 +1,34 @@
+<svg height="28" width="28" viewBox="0 0 50 50" stroke="#8DCCF7" xmlns="http://www.w3.org/2000/svg" class="UILoadingSpinner__Ring-foq3bi-5 fHWvhj">
+<style type="text/css">.kGBLTx {
+    animation: 2s cubic-bezier(0.42, 0, 0.58, 1) 0s infinite normal none running fWteSp, 2s linear 0s infinite normal none running dDtqwY;
+    stroke-dasharray: none;
+    stroke-dashoffset: 0;
+    stroke-linecap: round;
+    transform-origin: center center;
+}
+@keyframes dDtqwY {
+100% {
+    transform: rotate(360deg);
+}
+}
+
+@keyframes fWteSp {
+    0% {
+    stroke-dasharray: 1, 150;
+    stroke-dashoffset: 0;
+}
+50% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -50;
+}
+100% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -140;
+}
+}
+
+
+
+</style>
+<circle cx="25" cy="25" r="22.5" fill="none" stroke-width="5"></circle><circle cx="25" cy="25" r="22.5" fill="none" stroke="#0b6cad" stroke-width="5" class="UILoadingSpinner__RingPath-foq3bi-6 kGBLTx"></circle>
+</svg>
